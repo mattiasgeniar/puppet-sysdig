@@ -2,6 +2,20 @@ sysdig
 
 This is the sysdig module. More info at www.sysdig.org .
 
+Installation
+------------
+
+```puppet
+class { 'sysdig':
+
+}
+
+or
+
+include sysdig
+
+```
+
 Contact
 -------
 twitter.com/mattiasgeniar
