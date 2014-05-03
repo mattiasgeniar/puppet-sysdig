@@ -9,11 +9,12 @@ Installation
 class { 'sysdig':
 
 }
+```
 
 or
 
+```puppet
 include sysdig
-
 ```
 
 Contact
