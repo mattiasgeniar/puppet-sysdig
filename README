@@ -6,7 +6,12 @@ Contact
 -------
 twitter.com/mattiasgeniar
 
-Support
+Supported OS's
+--------------
+
+For now, only Red Hat & CentOS have been prepared. This needs some more love for Ubuntu/Debian variants.
+
+Contribute
 -------
 
-Please file pull requests.
+Please file pull requests if you find bugs or have new OS's to support. :-)
