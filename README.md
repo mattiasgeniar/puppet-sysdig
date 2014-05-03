@@ -19,7 +19,7 @@ include sysdig
 
 Contact
 -------
-twitter.com/mattiasgeniar
+https://twitter.com/mattiasgeniar
 
 Supported OS's
 --------------
